@@ -1,6 +1,6 @@
 #   BSOD
 Force a Blue Screen of Death on Windows 10 / 11
-- (note that the error code will not be the one from the image but 0xB50DB50D - BSODBSOD)
+- (note that the error code / stop code will not be the one from the image but 0xB50DB50D - BSODBSOD)
 
 ![Demo](assets/demo.png)
 
