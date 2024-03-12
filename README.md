@@ -10,4 +10,4 @@ Force a Blue Screen of Death on Windows 10 / 11
 - **ctypes** `cTypes is included in Python 2.5+`
   
 ## Danger?:
-- No. Even though BSoDs are often associated with harm to files are the OS this one is harmless
+- No. Even though BSoDs are often associated with harming files or the OS this one is harmless
